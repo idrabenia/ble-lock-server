@@ -1,0 +1,9 @@
+{
+  "author": "Ilya Drabenia",
+  "version": "0.0.1",
+  "dependencies": {
+    "bleno": "^0.4.0",
+    "pi-gpio": "0.0.8",
+    "rpi-gpio": "^0.7.0"
+  }
+}
